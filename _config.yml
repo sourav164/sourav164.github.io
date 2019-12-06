@@ -190,7 +190,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "https://sourav164.github.io/cv/"
+      path: ""
       type: posts
     values:
       layout: single
